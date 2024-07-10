@@ -5,10 +5,15 @@ This project involves developing a portfolio optimization model employing Markow
 
 Features
 Data Fetching: Fetch historical stock data for 200 assets using the yfinance library.
+
 Return and Risk Calculation: Calculate expected returns and covariance matrix from historical data.
+
 Monte Carlo Simulations: Simulate future returns to assess potential investment outcomes.
+
 Portfolio Optimization: Apply Markowitz MPT to find the optimal portfolio with minimum risk.
+
 Efficient Frontier Plotting: Visualize the efficient frontier and the optimal portfolio.
+
 Dependencies
 numpy
 pandas
