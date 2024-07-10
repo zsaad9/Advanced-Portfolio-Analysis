@@ -14,9 +14,4 @@ Portfolio Optimization: Apply Markowitz MPT to find the optimal portfolio with m
 
 Efficient Frontier Plotting: Visualize the efficient frontier and the optimal portfolio.
 
-Dependencies
-numpy
-pandas
-matplotlib
-yfinance
-scipy
+Dependencies: numpy, pandas, matplotlib, yfinance, scipy
